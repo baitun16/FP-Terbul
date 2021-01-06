@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260430897943",
+    "project_id": "terbul",
+    "storage_bucket": "terbul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260430897943:android:e585c6d59e5812465b0d52",
+        "android_client_info": {
+          "package_name": "com.example.terbul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260430897943-vjcdso2d59vtk4jhv7btibhmen6pt8i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8JP_aGoTu3Yb2x0tyjJQkKaOh2BEYRlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260430897943-vjcdso2d59vtk4jhv7btibhmen6pt8i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
